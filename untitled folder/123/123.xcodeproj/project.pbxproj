@@ -7,31 +7,27 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		17969547276D194500866C56 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17969546276D194500866C56 /* AppDelegate.swift */; };
-		1796954B276D194500866C56 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1796954A276D194500866C56 /* ViewController.swift */; };
-		1796954E276D194500866C56 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1796954C276D194500866C56 /* Main.storyboard */; };
-		17969550276D194800866C56 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1796954F276D194800866C56 /* Assets.xcassets */; };
-		17969553276D194800866C56 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 17969551276D194800866C56 /* LaunchScreen.storyboard */; };
-		1796955D276D2EBB00866C56 /* BinaryData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1796955C276D2EBB00866C56 /* BinaryData.swift */; };
-		1796955F276D2F1A00866C56 /* QRRawDataParser.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1796955E276D2F1A00866C56 /* QRRawDataParser.swift */; };
-		17969581276D46C500866C56 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17969580276D46C500866C56 /* SceneDelegate.swift */; };
+		1796956D276D45CE00866C56 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1796956C276D45CE00866C56 /* AppDelegate.swift */; };
+		1796956F276D45CE00866C56 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1796956E276D45CE00866C56 /* SceneDelegate.swift */; };
+		17969571276D45CE00866C56 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17969570276D45CE00866C56 /* ViewController.swift */; };
+		17969574276D45CE00866C56 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 17969572276D45CE00866C56 /* Main.storyboard */; };
+		17969576276D45D000866C56 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 17969575276D45D000866C56 /* Assets.xcassets */; };
+		17969579276D45D000866C56 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 17969577276D45D000866C56 /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		17969543276D194500866C56 /* QRDataBitDecoding.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = QRDataBitDecoding.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		17969546276D194500866C56 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		1796954A276D194500866C56 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		1796954D276D194500866C56 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		1796954F276D194800866C56 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		17969552276D194800866C56 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		17969554276D194800866C56 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		1796955C276D2EBB00866C56 /* BinaryData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BinaryData.swift; sourceTree = SOURCE_ROOT; };
-		1796955E276D2F1A00866C56 /* QRRawDataParser.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QRRawDataParser.swift; sourceTree = "<group>"; };
-		17969580276D46C500866C56 /* SceneDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		17969569276D45CE00866C56 /* 123.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = 123.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1796956C276D45CE00866C56 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		1796956E276D45CE00866C56 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		17969570276D45CE00866C56 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		17969573276D45CE00866C56 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		17969575276D45D000866C56 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		17969578276D45D000866C56 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		1796957A276D45D000866C56 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		17969540276D194500866C56 /* Frameworks */ = {
+		17969566276D45CE00866C56 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -41,89 +37,71 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		1796953A276D194500866C56 = {
+		17969560276D45CE00866C56 = {
 			isa = PBXGroup;
 			children = (
-				17969545276D194500866C56 /* QRDataBitDecoding */,
-				17969544276D194500866C56 /* Products */,
+				1796956B276D45CE00866C56 /* 123 */,
+				1796956A276D45CE00866C56 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		17969544276D194500866C56 /* Products */ = {
+		1796956A276D45CE00866C56 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				17969543276D194500866C56 /* QRDataBitDecoding.app */,
+				17969569276D45CE00866C56 /* 123.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		17969545276D194500866C56 /* QRDataBitDecoding */ = {
+		1796956B276D45CE00866C56 /* 123 */ = {
 			isa = PBXGroup;
 			children = (
-				17969580276D46C500866C56 /* SceneDelegate.swift */,
-				1796955B276D2EA800866C56 /* Core */,
-				1796955A276D2E9700866C56 /* ViewController */,
-				17969546276D194500866C56 /* AppDelegate.swift */,
-				1796954F276D194800866C56 /* Assets.xcassets */,
-				17969551276D194800866C56 /* LaunchScreen.storyboard */,
-				17969554276D194800866C56 /* Info.plist */,
+				1796956C276D45CE00866C56 /* AppDelegate.swift */,
+				1796956E276D45CE00866C56 /* SceneDelegate.swift */,
+				17969570276D45CE00866C56 /* ViewController.swift */,
+				17969572276D45CE00866C56 /* Main.storyboard */,
+				17969575276D45D000866C56 /* Assets.xcassets */,
+				17969577276D45D000866C56 /* LaunchScreen.storyboard */,
+				1796957A276D45D000866C56 /* Info.plist */,
 			);
-			path = QRDataBitDecoding;
-			sourceTree = "<group>";
-		};
-		1796955A276D2E9700866C56 /* ViewController */ = {
-			isa = PBXGroup;
-			children = (
-				1796954A276D194500866C56 /* ViewController.swift */,
-				1796954C276D194500866C56 /* Main.storyboard */,
-			);
-			path = ViewController;
-			sourceTree = "<group>";
-		};
-		1796955B276D2EA800866C56 /* Core */ = {
-			isa = PBXGroup;
-			children = (
-				1796955C276D2EBB00866C56 /* BinaryData.swift */,
-				1796955E276D2F1A00866C56 /* QRRawDataParser.swift */,
-			);
-			path = Core;
+			path = 123;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		17969542276D194500866C56 /* QRDataBitDecoding */ = {
+		17969568276D45CE00866C56 /* 123 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 17969557276D194800866C56 /* Build configuration list for PBXNativeTarget "QRDataBitDecoding" */;
+			buildConfigurationList = 1796957D276D45D000866C56 /* Build configuration list for PBXNativeTarget "123" */;
 			buildPhases = (
-				1796953F276D194500866C56 /* Sources */,
-				17969540276D194500866C56 /* Frameworks */,
-				17969541276D194500866C56 /* Resources */,
+				17969565276D45CE00866C56 /* Sources */,
+				17969566276D45CE00866C56 /* Frameworks */,
+				17969567276D45CE00866C56 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = QRDataBitDecoding;
-			productName = QRDataBitDecoding;
-			productReference = 17969543276D194500866C56 /* QRDataBitDecoding.app */;
+			name = 123;
+			productName = 123;
+			productReference = 17969569276D45CE00866C56 /* 123.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		1796953B276D194500866C56 /* Project object */ = {
+		17969561276D45CE00866C56 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 1250;
 				LastUpgradeCheck = 1250;
 				TargetAttributes = {
-					17969542276D194500866C56 = {
+					17969568276D45CE00866C56 = {
 						CreatedOnToolsVersion = 12.5.1;
 					};
 				};
 			};
-			buildConfigurationList = 1796953E276D194500866C56 /* Build configuration list for PBXProject "QRDataBitDecoding" */;
+			buildConfigurationList = 17969564276D45CE00866C56 /* Build configuration list for PBXProject "123" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -131,57 +109,55 @@
 				en,
 				Base,
 			);
-			mainGroup = 1796953A276D194500866C56;
-			productRefGroup = 17969544276D194500866C56 /* Products */;
+			mainGroup = 17969560276D45CE00866C56;
+			productRefGroup = 1796956A276D45CE00866C56 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				17969542276D194500866C56 /* QRDataBitDecoding */,
+				17969568276D45CE00866C56 /* 123 */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		17969541276D194500866C56 /* Resources */ = {
+		17969567276D45CE00866C56 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				17969553276D194800866C56 /* LaunchScreen.storyboard in Resources */,
-				17969550276D194800866C56 /* Assets.xcassets in Resources */,
-				1796954E276D194500866C56 /* Main.storyboard in Resources */,
+				17969579276D45D000866C56 /* LaunchScreen.storyboard in Resources */,
+				17969576276D45D000866C56 /* Assets.xcassets in Resources */,
+				17969574276D45CE00866C56 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		1796953F276D194500866C56 /* Sources */ = {
+		17969565276D45CE00866C56 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				17969581276D46C500866C56 /* SceneDelegate.swift in Sources */,
-				1796955F276D2F1A00866C56 /* QRRawDataParser.swift in Sources */,
-				1796954B276D194500866C56 /* ViewController.swift in Sources */,
-				1796955D276D2EBB00866C56 /* BinaryData.swift in Sources */,
-				17969547276D194500866C56 /* AppDelegate.swift in Sources */,
+				17969571276D45CE00866C56 /* ViewController.swift in Sources */,
+				1796956D276D45CE00866C56 /* AppDelegate.swift in Sources */,
+				1796956F276D45CE00866C56 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		1796954C276D194500866C56 /* Main.storyboard */ = {
+		17969572276D45CE00866C56 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				1796954D276D194500866C56 /* Base */,
+				17969573276D45CE00866C56 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		17969551276D194800866C56 /* LaunchScreen.storyboard */ = {
+		17969577276D45D000866C56 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				17969552276D194800866C56 /* Base */,
+				17969578276D45D000866C56 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -189,7 +165,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		17969555276D194800866C56 /* Debug */ = {
+		1796957B276D45D000866C56 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -250,7 +226,7 @@
 			};
 			name = Debug;
 		};
-		17969556276D194800866C56 /* Release */ = {
+		1796957C276D45D000866C56 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -305,66 +281,66 @@
 			};
 			name = Release;
 		};
-		17969558276D194800866C56 /* Debug */ = {
+		1796957E276D45D000866C56 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 55V26YV628;
-				INFOPLIST_FILE = QRDataBitDecoding/Info.plist;
+				INFOPLIST_FILE = 123/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.MiramKo.QRDataBitDecoding;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.MiramKo.-23";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = 1;
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		17969559276D194800866C56 /* Release */ = {
+		1796957F276D45D000866C56 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 55V26YV628;
-				INFOPLIST_FILE = QRDataBitDecoding/Info.plist;
+				INFOPLIST_FILE = 123/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.MiramKo.QRDataBitDecoding;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.MiramKo.-23";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = 1;
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		1796953E276D194500866C56 /* Build configuration list for PBXProject "QRDataBitDecoding" */ = {
+		17969564276D45CE00866C56 /* Build configuration list for PBXProject "123" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				17969555276D194800866C56 /* Debug */,
-				17969556276D194800866C56 /* Release */,
+				1796957B276D45D000866C56 /* Debug */,
+				1796957C276D45D000866C56 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		17969557276D194800866C56 /* Build configuration list for PBXNativeTarget "QRDataBitDecoding" */ = {
+		1796957D276D45D000866C56 /* Build configuration list for PBXNativeTarget "123" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				17969558276D194800866C56 /* Debug */,
-				17969559276D194800866C56 /* Release */,
+				1796957E276D45D000866C56 /* Debug */,
+				1796957F276D45D000866C56 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 1796953B276D194500866C56 /* Project object */;
+	rootObject = 17969561276D45CE00866C56 /* Project object */;
 }

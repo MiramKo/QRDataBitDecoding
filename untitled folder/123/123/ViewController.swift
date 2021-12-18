@@ -1,8 +1,8 @@
 //
 //  ViewController.swift
-//  QRDataBitDecoding
+//  123
 //
-//  Created by Михаил Костров on 17.12.2021.
+//  Created by Михаил Костров on 18.12.2021.
 //
 
 import UIKit
